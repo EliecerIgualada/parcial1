@@ -12,7 +12,5 @@ require_once("utils/carrousel_utils.php");
           $carousel[]= new carrousel_models(4,"Imagen 5","Reloj de arena","imagenes//arena.png","El reloj de arena se caracteriza por tener dos receptáculos conectados por una obertura estrecha. Se controla el transcurso de un tiempo determinado desde que la arena empieza a caer al receptáculo inferior y termina cuando ha caído en su totalidad.");
             return $carousel;
         }
-
-
     }
 ?>
